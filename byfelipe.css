@@ -1,0 +1,13 @@
+body{
+background: hsla(180, 95%, 48%, 1);
+
+background: linear-gradient(90deg, hsla(180, 95%, 48%, 1) 0%, hsla(194, 100%, 37%, 1) 100%);
+}
+p{
+	font-size: 20px;
+
+}
+h1{
+	font-size: 40px;
+	font-family: sans-serif;
+}
